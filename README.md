@@ -1,0 +1,2 @@
+# Osnove programiranja - tecaj
+
